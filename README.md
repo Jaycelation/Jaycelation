@@ -1,5 +1,5 @@
 # 💫About Me :
-### Hi, my name is Dang Duc Tai, and I am currently studying Information Security at the Posts and Telecommunications Institute of Technology (PTIT)
+### Hi, my name is Dang Duc Tai, and I am currently studying Information Security at the Posts and Telecommunications Institute of Technology (PTIT).
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/11ad3e37d17d36816bc5aa9934b01a15e7bf1f23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayce-dang-346436269/)
