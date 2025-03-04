@@ -42,7 +42,7 @@ I'm a passionate Web Security enthusiast currently studying Information Security
 - 🌱 I’m currently learning and exploring various aspects of Web Security.
 - 👯 I’m looking to collaborate on projects related to cybersecurity, penetration testing, and secure coding.
 - 💬 Feel free to reach out to me for discussions related to Web Security, cybersecurity, or anything else you'd like to chat about.
-- 📫 You can reach me via email at [jaycedang0601@gmail.com](jaycedang0601@gmail.com).
+- 📫 You can reach me via email [here](jaycedang0601@gmail.com).
 - 😄 Pronouns: He/Him
 
 ## :computer: My Interests
